@@ -1,0 +1,9 @@
+Start
+Store product IDs in an array
+Read Product ID to search
+Compare with each product ID
+If found
+    Display "Product Found"
+Else
+    Display "Product Not Found"
+Stop
