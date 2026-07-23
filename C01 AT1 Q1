@@ -1,0 +1,7 @@
+Start
+Declare Patient structure
+Read Patient ID
+Read Temperature
+Read Medical History
+Display Patient Details
+Stop
