@@ -1,0 +1,9 @@
+Start
+Store elements in an array
+Select the element to search
+Compare with each array element
+If element is found
+    Display its position
+Else
+    Display "Element Not Found"
+Stop
